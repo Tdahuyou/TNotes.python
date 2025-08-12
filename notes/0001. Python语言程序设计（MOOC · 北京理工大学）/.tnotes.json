@@ -1,6 +1,8 @@
 {
   "bilibili": [],
-  "yuque": [],
+  "yuque": [
+    "python.0001"
+  ],
   "done": false,
   "enableDiscussions": false,
   "id": "bc108924-ca1e-4cdc-9c2d-da1a4901c3ee"
