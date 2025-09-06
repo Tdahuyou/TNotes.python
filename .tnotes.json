@@ -1,5 +1,5 @@
 {
-  "author": "Tdahuyou",
+  "author": "tnotesjs",
   "repoName": "TNotes.python",
   "keywords": ["TNotes.python"],
   "ignore_dirs": [
@@ -19,7 +19,7 @@
     "title": "python",
     "completed_notes_count": 0,
     "details": "python 笔记",
-    "link": "https://tdahuyou.github.io/TNotes.python/",
+    "link": "https://tnotesjs.github.io/TNotes.python/",
     "created_at": 1754971781000,
     "updated_at": 1757163551494,
     "days_since_birth": 9542
@@ -36,7 +36,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tdahuyou.github.io/notes"
+      "link": "https://tnotesjs.github.io/notes"
     },
     {
       "text": "📂 TNotes.yuque",
