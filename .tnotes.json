@@ -13,7 +13,7 @@
     "demos",
     "assets"
   ],
-  "rootSidebarDir": "../_/sidebars",
+  "rootSidebarDir": "../TNotes/sidebars",
   "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--python.svg"
@@ -23,7 +23,7 @@
     "details": "python 笔记",
     "link": "https://tdahuyou.github.io/TNotes.python/",
     "created_at": 1754971781000,
-    "updated_at": 1754992384159,
+    "updated_at": 1757163551494,
     "days_since_birth": 9542
   },
   "port": 9542,
@@ -62,7 +62,7 @@
     },
     {
       "ariaLabel": "TNotes.python github 仓库链接",
-      "link": "https://github.com/Tdahuyou/TNotes.python",
+      "link": "https://github.com/tnotesjs/TNotes.python",
       "icon": "github"
     }
   ],
