@@ -23,7 +23,7 @@
     "details": "python 笔记",
     "link": "https://tnotesjs.github.io/TNotes.python/",
     "created_at": 1754971781000,
-    "updated_at": 1757172135095,
+    "updated_at": 1757554108077,
     "days_since_birth": 9542
   },
   "port": 9542,
@@ -38,7 +38,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tnotesjs.github.io/notes"
+      "link": "https://tnotesjs.github.io/TNotes"
     },
     {
       "text": "📂 TNotes.yuque",
